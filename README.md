@@ -13,7 +13,7 @@ A real-time analog clock that uses HTML, CSS, and JavaScript to display the curr
   - Smooth transitions and accurate rotation
   - Responsive layout
 
-📂 Folder: `/AnalogClock`
+📂 Folder: `/ANALOG_CLOCK`
 
 ---
 
@@ -26,7 +26,7 @@ A web app to generate QR codes from user input text or URLs using a public QR AP
   - Uses [api.qrserver.com](https://goqr.me/api/) to generate QR images
   - Instant feedback and clean UI
 
-📂 Folder: `/QRCodeGenerator`
+📂 Folder: `/QRCODE_GENERATOR`
 
 ---
 
