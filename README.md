@@ -4,29 +4,42 @@ This repository contains simple and visually interactive frontend projects built
 
 ## 🚀 Projects
 
-### 1. ⏰ Analog Clock
+### 1. ⏰ Analog Clock  
 A real-time analog clock that uses HTML, CSS, and JavaScript to display the current time with moving hour, minute, and second hands.
 
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:**
-  - Dynamic clock hands updated using `setInterval()`
-  - Smooth transitions and accurate rotation
+- **Tech Stack:** HTML, CSS, JavaScript  
+- **Features:**  
+  - Dynamic clock hands updated using `setInterval()`  
+  - Smooth transitions and accurate rotation  
   - Responsive layout
 
 📂 Folder: `/ANALOG_CLOCK`
 
 ---
 
-### 2. 📷 QR Code Generator
+### 2. 📷 QR Code Generator  
 A web app to generate QR codes from user input text or URLs using a public QR API.
 
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:**
-  - Input any text or link to get a QR code
-  - Uses [api.qrserver.com](https://goqr.me/api/) to generate QR images
+- **Tech Stack:** HTML, CSS, JavaScript  
+- **Features:**  
+  - Input any text or link to get a QR code  
+  - Uses [api.qrserver.com](https://goqr.me/api/) to generate QR images  
   - Instant feedback and clean UI
 
 📂 Folder: `/QRCODE_GENERATOR`
+
+---
+
+### 3. 🧮 Calculator  
+A basic calculator for performing arithmetic operations like addition, subtraction, multiplication, and division.
+
+- **Tech Stack:** HTML, CSS, JavaScript  
+- **Features:**  
+  - Responsive and user-friendly interface  
+  - Supports basic math operations  
+  - Keyboard input support (optional)
+
+📂 Folder: `/CALCULATOR`
 
 ---
 
